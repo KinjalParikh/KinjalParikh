@@ -1,6 +1,6 @@
 Hi! I am Kinjal Parikh👋 
 
-I am interested in Computer Graphics, Geometry Processing and Computer Vision.
+I am interested in Computer Graphics and Geometry Processing.
 
 You can reach me at Kinjal.Parikh@outlook.com
 
